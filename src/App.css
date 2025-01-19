@@ -1,0 +1,41 @@
+html, body {
+  height: 100%;
+  width: 100%;
+  margin: 0;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.mainContainer{
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.my-row{
+  align-items: center;
+  padding: 7px 5px;
+}
+.task-field{
+  height:100%;
+  width: 100%;
+}
+.date-field{
+  height:35px;
+  width: 100%;
+}
+.list-group-item.my-list-item {
+  width: 400px;
+  display: flex;
+  justify-content: flex-start !important;
+}
+#dateLabel{
+  margin-left: auto;
+  color:rgb(122, 122, 122)
+}
+.my-btn{
+  background-color:red !important;
+}
+.my-btn:hover{
+  background-color: rgb(199, 6, 6) !important;
+}
