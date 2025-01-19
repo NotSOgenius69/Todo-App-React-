@@ -1,4 +1,4 @@
-**"Revolutionary Task Management App 🚀"**
+<h1>"Revolutionary Task Management App 🚀"</h1>
 
 Are you tired of the same old boring, functional, and actually useful to-do apps? Well, you're in luck! Introducing *yet another to-do app*, painstakingly crafted with React. Because, honestly, the world desperately needed one more.
 
